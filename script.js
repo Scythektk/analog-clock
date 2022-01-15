@@ -81,4 +81,4 @@ document.getElementById("seconds-hand").addEventListener("mouseleave", function(
     document.getElementById("digital-minutes").style.opacity = "1";
     document.getElementById("digital-seconds").style.transitionDuration = "0.2s";
 });
-}
+};
